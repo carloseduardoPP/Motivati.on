@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">MOTIVATION</string>
+    <string name="button_nova_frase">Nova Frase</string>
+    <string name="tv_phrase_motivation">Motivation</string>
+    <string name="tv_hi">Olá,</string>
+    <string name="tv_user_letStart">Vamos comecar?</string>
+    <string name="tv_whats_your_name">Qual seu nome?</string>
+    <string name="button_save">Salvar</string>
+    <string name="recomendation_save">Digite seu nome, por favor :)</string>
+</resources>
